@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'TBC Contractica';
+    src: url('../css/fonts/TBCContractica-Bold.eot');
+    src: url('../css/fonts/TBCContractica-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Bold.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Bold.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Bold.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Bold.svg#TBCContractica-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica Book';
+    src: url('../css/fonts/TBCContractica-Book.eot');
+    src: url('../css/fonts/TBCContractica-Book.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Book.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Book.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Book.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Book.svg#TBCContractica-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica';
+    src: url('../css/fonts/TBCContractica-Black.eot');
+    src: url('../css/fonts/TBCContractica-Black.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Black.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Black.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Black.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Black.svg#TBCContractica-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS';
+    src: url('../css/fonts/TBCContracticaCAPS-Regular.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Regular.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Regular.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Regular.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Regular.svg#TBCContracticaCAPS-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS';
+    src: url('../css/fonts/TBCContracticaCAPS-Light.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Light.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Light.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Light.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Light.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Light.svg#TBCContracticaCAPS-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS';
+    src: url('../css/fonts/TBCContracticaCAPS-Medium.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Medium.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Medium.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Medium.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Medium.svg#TBCContracticaCAPS-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS Book';
+    src: url('../css/fonts/TBCContracticaCAPS-Book.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Book.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Book.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Book.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Book.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Book.svg#TBCContracticaCAPS-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS';
+    src: url('../css/fonts/TBCContracticaCAPS-Black.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Black.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Black.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Black.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Black.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Black.svg#TBCContracticaCAPS-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica CAPS';
+    src: url('../css/fonts/TBCContracticaCAPS-Bold.eot');
+    src: url('../css/fonts/TBCContracticaCAPS-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContracticaCAPS-Bold.woff2') format('woff2'),
+        url('../css/fonts/TBCContracticaCAPS-Bold.woff') format('woff'),
+        url('../css/fonts/TBCContracticaCAPS-Bold.ttf') format('truetype'),
+        url('../css/fonts/TBCContracticaCAPS-Bold.svg#TBCContracticaCAPS-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica';
+    src: url('../css/fonts/TBCContractica-Medium.eot');
+    src: url('../css/fonts/TBCContractica-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Medium.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Medium.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Medium.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Medium.svg#TBCContractica-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica';
+    src: url('../css/fonts/TBCContractica-Light.eot');
+    src: url('../css/fonts/TBCContractica-Light.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Light.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Light.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Light.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Light.svg#TBCContractica-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TBC Contractica';
+    src: url('../css/fonts/TBCContractica-Regular.eot');
+    src: url('../css/fonts/TBCContractica-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../css/fonts/TBCContractica-Regular.woff2') format('woff2'),
+        url('../css/fonts/TBCContractica-Regular.woff') format('woff'),
+        url('../css/fonts/TBCContractica-Regular.ttf') format('truetype'),
+        url('../css/fonts/TBCContractica-Regular.svg#TBCContractica-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
