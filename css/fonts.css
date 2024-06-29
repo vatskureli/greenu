@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'TBC Contractica CAPS';
+    font-family: 'TBC Contractica';
     src: url('../css/fonts/TBCContractica-Bold.eot');
     src: url('../css/fonts/TBCContractica-Bold.eot?#iefix') format('embedded-opentype'),
         url('../css/fonts/TBCContractica-Bold.woff2') format('woff2'),
@@ -25,7 +25,7 @@
 }
 
 @font-face {
-    font-family: 'TBC Contractica CAPS';
+    font-family: 'TBC Contractica';
     src: url('../css/fonts/TBCContractica-Black.eot');
     src: url('../css/fonts/TBCContractica-Black.eot?#iefix') format('embedded-opentype'),
         url('../css/fonts/TBCContractica-Black.woff2') format('woff2'),
@@ -116,7 +116,7 @@
 }
 
 @font-face {
-    font-family: 'TBC Contractica CAPS';
+    font-family: 'TBC Contractica';
     src: url('../css/fonts/TBCContractica-Medium.eot');
     src: url('../css/fonts/TBCContractica-Medium.eot?#iefix') format('embedded-opentype'),
         url('../css/fonts/TBCContractica-Medium.woff2') format('woff2'),
@@ -129,7 +129,7 @@
 }
 
 @font-face {
-    font-family: 'TBC Contractica CAPS';
+    font-family: 'TBC Contractica';
     src: url('../css/fonts/TBCContractica-Light.eot');
     src: url('../css/fonts/TBCContractica-Light.eot?#iefix') format('embedded-opentype'),
         url('../css/fonts/TBCContractica-Light.woff2') format('woff2'),
@@ -142,7 +142,7 @@
 }
 
 @font-face {
-    font-family: 'TBC Contractica CAPS';
+    font-family: 'TBC Contractica';
     src: url('../css/fonts/TBCContractica-Regular.eot');
     src: url('../css/fonts/TBCContractica-Regular.eot?#iefix') format('embedded-opentype'),
         url('../css/fonts/TBCContractica-Regular.woff2') format('woff2'),
