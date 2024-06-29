@@ -207,3 +207,15 @@
     }
  
 }
+
+@media (max-width: 400px){
+    .service {
+        max-width: 400px;
+        width: 100%;
+    }
+    .service-title{
+        width: 100%;
+        left: 80%;
+        font-size: 14px;
+    }
+}
